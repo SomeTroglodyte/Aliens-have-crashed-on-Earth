@@ -1,0 +1,62 @@
+
+game.png
+size: 512, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Breeders
+  rotate: false
+  xy: 388, 388
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Holodeck
+  rotate: false
+  xy: 104, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Penguin Hatchery
+  rotate: false
+  xy: 388, 286
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Zyxxyz
+  rotate: false
+  xy: 2, 104
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+NationIcons/Aliens
+  rotate: false
+  xy: 2, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Snow+Penguin Hatchery
+  rotate: false
+  xy: 388, 256
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Tundra+Penguin Hatchery
+  rotate: false
+  xy: 308, 74
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+UnitIcons/Phasers
+  rotate: false
+  xy: 206, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
