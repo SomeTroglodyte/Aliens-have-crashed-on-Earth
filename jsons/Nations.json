@@ -37,7 +37,8 @@
             "+[-33]% Production when constructing [Military] units",
             "Double quantity of [Uranium] produced",
             "[Military] units gain the [Quick Study] promotion",
-            "[+4 Gold] from every [Academy]"
+            "[+4 Gold] from every [Academy]",
+            "[Land] units gain the [Cold heart] promotion"
         ],
 
         "cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",

@@ -41,14 +41,14 @@ NationIcons/Aliens
   index: -1
 TileSets/FantasyHex/Tiles/Snow+Penguin Hatchery
   rotate: false
-  xy: 388, 256
+  xy: 308, 74
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Tundra+Penguin Hatchery
   rotate: false
-  xy: 308, 74
+  xy: 388, 204
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -58,5 +58,12 @@ UnitIcons/Phasers
   xy: 206, 2
   size: 100, 100
   orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Cold heart
+  rotate: false
+  xy: 388, 234
+  size: 50, 50
+  orig: 50, 50
   offset: 0, 0
   index: -1
