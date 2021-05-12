@@ -10,3 +10,5 @@ All the following are from [the Noun Project](https://thenounproject.com) licenc
 
 * [Greylien](https://en.wikipedia.org/wiki/File:Greylien.png) by MjolnirPants for Leader Portrait
     - This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license.
+
+splashscreen.jpg attribution lost, needs redo
