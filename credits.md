@@ -7,8 +7,9 @@ All the following are from [the Noun Project](https://thenounproject.com) licenc
 * [Penguin](https://thenounproject.com/term/penguin/342691) by Javier Cabezas for Penguin Hatchery
 * [Penguin](https://thenounproject.com/term/penguin/26761) by Christy Presler for Penguin Hatchery tileset
 * [Ski](https://thenounproject.com/term/ski/3447910/) by Smalllike for Cold heart
-
-* [Greylien](https://en.wikipedia.org/wiki/File:Greylien.png) by MjolnirPants for Leader Portrait
-    - This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license.
+* [Image found on wallpapers-best.com](http://wallpapers-best.com/3205-mars-attacks!.html) for Splash image
+    - This source lists neither attribution nor conditions so it is assumed to be public domain
+* [Image found on wallpapers-best.com](http://wallpapers-best.com/3205-mars-attacks!.html) for Leader Portrait
+    - This source lists neither attribution nor conditions so it is assumed to be public domain
 
 splashscreen.jpg attribution lost, needs redo
