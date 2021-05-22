@@ -7,7 +7,7 @@
 		"science":1,
 		"production":1,
 		"food": 1,
-		"techRequired": "Currency",
+		"techRequired": "Mathematics",
 		"improvingTech": "Physics",
 		"improvingTechStats": {"science":1,"production":1,"food": 1}
 		"uniques": ["Cannot be built on bonus resource"]
