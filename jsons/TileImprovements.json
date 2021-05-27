@@ -10,6 +10,7 @@
 		"techRequired": "Mathematics",
 		"improvingTech": "Physics",
 		"improvingTechStats": {"science":1,"production":1,"food": 1},
-		"uniques": ["Cannot be built on bonus resource"]
+		"uniques": ["Cannot be built on bonus resource"],
+		"shortcutKey": "P"
 	}
 ]
