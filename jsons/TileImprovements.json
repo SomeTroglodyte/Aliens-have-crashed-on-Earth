@@ -2,7 +2,7 @@
 	{
 		"name": "Penguin Hatchery",
 		"uniqueTo": "Aliens",
-		"terrainsCanBeBuiltOn": ["Snow","Tundra","Hill","Forest"],
+		"terrainsCanBeBuiltOn": ["Snow","Tundra"],
 		"turnsToBuild": 10,
 		"science":1,
 		"production":1,
