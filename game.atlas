@@ -39,18 +39,32 @@ NationIcons/Aliens
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Snow+Penguin Hatchery
+TileSets/5Hex/Tiles/Penguin Hatchery
   rotate: false
-  xy: 408, 124
-  size: 32, 28
-  orig: 32, 28
+  xy: 408, 82
+  size: 80, 70
+  orig: 80, 70
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Tundra+Penguin Hatchery
+TileSets/FantasyHex/Tiles/Penguin Hatchery
   rotate: false
   xy: 54, 24
   size: 32, 28
   orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Phasers
+  rotate: false
+  xy: 408, 10
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+TileSets/5Hex/Units/Phasers
+  rotate: false
+  xy: 408, 10
+  size: 80, 70
+  orig: 80, 70
   offset: 0, 0
   index: -1
 UnitIcons/Phasers

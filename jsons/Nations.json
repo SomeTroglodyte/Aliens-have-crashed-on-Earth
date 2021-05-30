@@ -38,7 +38,8 @@
             "Double quantity of [Uranium] produced",
             "[Military] units gain the [Quick Study] promotion",
             "[+4 Gold] from every [Academy]",
-            "[Land] units gain the [Cold heart] promotion"
+            "[Land] units gain the [Cold heart] promotion",
+            "[+1 Food] from every [Snow]"
         ],
 
         "cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",

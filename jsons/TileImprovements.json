@@ -2,14 +2,15 @@
 	{
 		"name": "Penguin Hatchery",
 		"uniqueTo": "Aliens",
-		"terrainsCanBeBuiltOn": ["Snow","Tundra"],
+		"terrainsCanBeBuiltOn": ["Snow","Tundra","Hill","Forest"],
 		"turnsToBuild": 10,
 		"science":1,
 		"production":1,
 		"food": 1,
 		"techRequired": "Mathematics",
-		"improvingTech": "Physics",
-		"improvingTechStats": {"science":1,"production":1,"food": 1}
-		"uniques": ["Cannot be built on bonus resource"]
+		"uniques": ["Cannot be built on bonus resource",
+                    "Cannot be built on [Plains,Grassland,Desert] tiles",
+                    "[+1 Food, +1 Production, +1 Science] once [Physics] is discovered"],
+        "shortcutKey": "P"
 	}
 ]
