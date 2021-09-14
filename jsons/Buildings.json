@@ -19,7 +19,7 @@
 		"cost": 80,
 		"hurryCostModifier": 200,
 		"happiness": 2,
-		"uniques": ["[50]% of food is carried over after population increases"],
+		"uniques": ["[50]% of food is carried over [in this city] after population increases"],
 		"requiredTech": "Engineering"
 	}
 ]
