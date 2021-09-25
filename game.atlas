@@ -1,82 +1,131 @@
 
 game.png
-size: 512, 256
+size: 1024, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Breeders
   rotate: false
-  xy: 306, 154
+  xy: 320, 141
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Holodeck
   rotate: false
-  xy: 408, 154
+  xy: 428, 141
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Penguin Hatchery
   rotate: false
-  xy: 204, 52
+  xy: 536, 141
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 LeaderIcons/Zyxxyz
   rotate: false
-  xy: 2, 54
+  xy: 4, 41
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Aliens
   rotate: false
-  xy: 204, 154
+  xy: 212, 141
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/5Hex/Tiles/Penguin Hatchery
+TileSets/5Hex/Tiles/King Solomon's Mines
   rotate: false
-  xy: 408, 82
+  xy: 212, 63
   size: 80, 70
   orig: 80, 70
   offset: 0, 0
   index: -1
+TileSets/5Hex/Tiles/Lake Victoria
+  rotate: false
+  xy: 752, 171
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+TileSets/5Hex/Tiles/Mount Kilimanjaro
+  rotate: false
+  xy: 300, 63
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+TileSets/5Hex/Tiles/Penguin Hatchery
+  rotate: false
+  xy: 840, 171
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/King Solomon's Mines
+  rotate: false
+  xy: 4, 4
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Lake Victoria
+  rotate: false
+  xy: 986, 212
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mount Kilimanjaro
+  rotate: false
+  xy: 534, 104
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Penguin Hatchery
   rotate: false
-  xy: 54, 24
+  xy: 44, 5
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Phasers
   rotate: false
-  xy: 408, 10
+  xy: 388, 63
   size: 80, 70
   orig: 80, 70
   offset: 0, 0
   index: -1
 TileSets/5Hex/Units/Phasers
   rotate: false
-  xy: 408, 10
+  xy: 388, 63
   size: 80, 70
   orig: 80, 70
   offset: 0, 0
   index: -1
 UnitIcons/Phasers
   rotate: false
-  xy: 306, 52
+  xy: 644, 141
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitPromotionIcons/Altitude Training
+  rotate: false
+  xy: 928, 191
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
 UnitPromotionIcons/Cold heart
   rotate: false
-  xy: 2, 2
+  xy: 476, 83
   size: 50, 50
   orig: 50, 50
   offset: 0, 0

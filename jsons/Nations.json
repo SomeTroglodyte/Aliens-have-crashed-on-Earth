@@ -31,7 +31,6 @@
 		"innerColor": [255,200,200],
 
         "uniqueName": "Brainiacs",
-//		"uniqueText": "Additional 4 Science in capital and additional 2 Science in any other city. 33% slower construction of military units. Double Uranium yield. Military units gain the Quick Study promotion.",
 		"uniques": [
             "[+4 Science] [in capital]",
 			"[+2 Science] [in all cities]",
@@ -41,7 +40,9 @@
             "[+4 Gold] from every [Academy]",
             "[Land] units gain the [Cold heart] promotion",
 			"[+1 Food] from every [Snow]",
+			"[+1 Food] from every [Tundra]",
 			"[-1 Food] from every [Grassland]",
+			"[-1 Food] from every [Plains]",
 			"[-1 Food] from every [Desert]"
 		],
 

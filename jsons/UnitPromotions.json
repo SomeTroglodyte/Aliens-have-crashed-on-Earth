@@ -2,5 +2,9 @@
 	{
 		"name": "Cold heart",
 		"uniques": ["+[33]% Strength in [Snow]", "+[33]% Strength in [Tundra]", "Double movement in Snow, Tundra and Hills"]
+	},
+	{
+		"name": "Altitude Training",
+		"uniques": ["+[10]% Strength in [Hill]", "Double movement in [Hill]"]
 	}
 ]

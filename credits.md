@@ -11,5 +11,7 @@ All the following are from [the Noun Project](https://thenounproject.com) licenc
     - This source lists neither attribution nor conditions so it is assumed to be public domain
 * [Image found on wallpapers-best.com](http://wallpapers-best.com/3205-mars-attacks!.html) for Leader Portrait
     - This source lists neither attribution nor conditions so it is assumed to be public domain
-
-splashscreen.jpg attribution lost, needs redo
+* [The Mushroom rock formation in Timna Park, Israel](https://en.wikipedia.org/wiki/File:The_Mushroom.jpg) as base for King Solomon's Mines tiles, done in Gimp
+* [File:Topography of Lake Victoria](https://commons.wikimedia.org/wiki/File:Topography_of_Lake_Victoria.png) as base for Lake Victoria tiles, done in Gimp
+* [1911 painting of Mount Kilimandscharo](https://commons.wikimedia.org/wiki/File:Der-Kilimandscharo.jpg) as base for Mount Kilimanjaro tiles, done in Gimp
+* [Hiking](https://thenounproject.com/term/hiking/1779379/) by Adrien Coquet for Altitude Training
