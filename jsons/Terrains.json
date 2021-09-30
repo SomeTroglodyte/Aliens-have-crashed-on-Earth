@@ -1,4 +1,38 @@
 [
+	{
+		"name": "Alien Spaceship",
+		"type": "NaturalWonder",
+        "food": 4,
+        "science": 8,
+        "happiness": 8,
+        "culture": 2,
+        "faith": 2,
+		"occursOn": ["Tundra","Snow"],
+		"uniques": ["Must be adjacent to [0] [Coast] tiles",
+            "Must be adjacent to [0] [Desert] tiles",
+			"Must be adjacent to [0] [Mountain] tiles",
+            "Must be adjacent to [3] to [6] [Tundra] tiles",
+            "Must be on [2] largest landmasses",
+            "Neighboring tiles will convert to [Tundra]",
+            "Tile provides yield without assigned population"],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 400000
+	},
+	{
+		"name": "Spaceship Debris",
+		"type": "NaturalWonder",
+		"production": 4,
+        "food": 2,
+		"occursOn": ["Tundra","Forest"],
+		"uniques": ["Must be adjacent to [1] [Alien Spaceship] tiles",
+            "Occurs in groups of [3] to [5] tiles"],
+		"turnsInto": "Tundra",
+		"unbuildable": true,
+		"weight": 2000
+	},
+
     // BNW wonders
 	{
 		"name": "King Solomon's Mines",
