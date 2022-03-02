@@ -12,7 +12,7 @@
 			"Cannot be built on [Grassland] tiles",
 			"Cannot be built on [Plains] tiles",
 			"Cannot be built on [Desert] tiles",
-			"[+1 Food, +1 Production, +1 Science] once [Physics] is discovered"],
+			"[+1 Food, +1 Production, +1 Science] <after discovering [Physics]>"],
 		"shortcutKey": "P"
 	}
 ]

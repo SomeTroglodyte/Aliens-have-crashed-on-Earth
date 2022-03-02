@@ -32,7 +32,7 @@
 
         "uniqueName": "Brainiacs",
 		"uniques": [
-            "+[-33]% Production when constructing [Military] units [in all cities]",
+            "[-33]% Production when constructing [Military] units [in all cities]",
             "Double quantity of [Uranium] produced",
             "[Military] units gain the [Quick Study] promotion",
             "[+4 Gold] from every [Academy]",

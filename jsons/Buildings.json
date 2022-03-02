@@ -9,7 +9,7 @@
 		"science": 12,
 		"maintenance": 96,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
+        "uniques": ["Requires a [Colosseum] in all cities"],
 		"requiredTech": "Horseback Riding"
 	},
 	{
@@ -19,7 +19,7 @@
 		"cost": 80,
 		"hurryCostModifier": 200,
 		"happiness": 2,
-		"uniques": ["[50]% of food is carried over [in this city] after population increases"],
+		"uniques": ["[50]% of food is carried over after population increases [in this city]"],
 		"requiredTech": "Engineering"
 	}
 ]

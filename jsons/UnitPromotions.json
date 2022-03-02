@@ -2,15 +2,15 @@
 	{
 		"name": "Cold heart",
 		"uniques": [
-            "+[33]% Strength in [Snow]",
-            "+[33]% Strength in [Tundra]",
+            "[+33]% Strength <when fighting in [Snow] tiles>",
+            "[+33]% Strength <when fighting in [Tundra] tiles>",
             "Double movement in [Snow]",
             "Double movement in [Tundra]"]
 	},
 	{
 		"name": "Altitude Training",
 		"uniques": [
-            "+[10]% Strength in [Hill]",
+            "[+10]% Strength <when fighting in [Hill] tiles>",
             "Double movement in [Hill]"]
 	}
 ]
