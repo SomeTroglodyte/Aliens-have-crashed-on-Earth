@@ -1,3 +1,4 @@
 {
-  "compatibility":["Modern Joke Religions", "5Hex Tileset"]
+  "compatibility":["Modern Joke Religions", "5Hex Tileset"],
+  "maxXPfromBarbarians":60
 }
