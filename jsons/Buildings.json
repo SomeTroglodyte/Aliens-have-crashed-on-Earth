@@ -10,7 +10,8 @@
 		"maintenance": 96,
 		"isNationalWonder": true,
         "uniques": ["Requires a [Colosseum] in all cities"],
-		"requiredTech": "Horseback Riding"
+		"requiredTech": "Horseback Riding",
+        "civilopediaText":[{"text":"While extremely entertaining and stimulating, the Holodeck's energy consumption is at a premium. Still, this is the only major component the Aliens bothered to retreive from their crashed spaceship and jury-rig to some functionality."}]
 	},
 	{
 		"name": "Breeders",
@@ -19,7 +20,9 @@
 		"cost": 80,
 		"hurryCostModifier": 200,
 		"happiness": 2,
-		"uniques": ["[50]% of food is carried over after population increases [in this city]"],
-		"requiredTech": "Engineering"
+		"maintenance": 2,
+		"uniques": ["[33]% Food is carried over after population increases [in this city]", "[+15]% growth [in this city] <when at war>"],
+		"requiredTech": "Engineering",
+        "civilopediaText":[{"text":"While the Aliens do sport a vigorous libido, their minds are too perverted to conentrate on procreation. To avoid extinction, they've come up with these tanks, which essentially contain a living embryo-producing bioconstruct engineered from their own genome."}]
 	}
 ]

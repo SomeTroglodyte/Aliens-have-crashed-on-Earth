@@ -1,3 +1,5 @@
-{
-  "compatibility":["Modern Joke Religions", "5Hex Tileset"]
-}
+{constants:{
+    maxXPfromBarbarians:60,
+    naturalWonderCountMultiplier: 0.1,
+    naturalWonderCountAddedConstant: 2.4
+}}

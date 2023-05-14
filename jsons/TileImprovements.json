@@ -13,6 +13,7 @@
 			"Cannot be built on [Plains] tiles",
 			"Cannot be built on [Desert] tiles",
 			"[+1 Food, +1 Production, +1 Science] <after discovering [Physics]>"],
-		"shortcutKey": "P"
+		"shortcutKey": "P",
+        "civilopediaText":[{"text":"The aliens have found a way to accelerate the gestation period of the Monarch Penguin, and they find their eyeballs quite tasty and invigorating. As for their other ... ... uses..."}]
 	}
 ]

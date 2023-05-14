@@ -6,21 +6,21 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Breeders
   rotate: false
-  xy: 320, 141
+  xy: 428, 141
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Holodeck
   rotate: false
-  xy: 428, 141
+  xy: 536, 141
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Penguin Hatchery
   rotate: false
-  xy: 536, 141
+  xy: 644, 141
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -34,126 +34,161 @@ LeaderIcons/Zyxxyz
   index: -1
 NationIcons/Aliens
   rotate: false
-  xy: 212, 141
+  xy: 320, 141
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/5Hex/Tiles/Alien Spaceship
   rotate: false
-  xy: 752, 121
+  xy: 860, 121
   size: 80, 120
   orig: 80, 120
   offset: 0, 0
   index: -1
-TileSets/5Hex/Tiles/King Solomon's Mines
-  rotate: false
-  xy: 212, 63
-  size: 80, 70
-  orig: 80, 70
-  offset: 0, 0
-  index: -1
-TileSets/5Hex/Tiles/Lake Victoria
-  rotate: false
-  xy: 840, 171
-  size: 80, 70
-  orig: 80, 70
-  offset: 0, 0
-  index: -1
-TileSets/5Hex/Tiles/Mount Kilimanjaro
+TileSets/5Hex/Tiles/Kilimanjaro
   rotate: false
   xy: 300, 63
   size: 80, 70
   orig: 80, 70
   offset: 0, 0
   index: -1
-TileSets/5Hex/Tiles/Penguin Hatchery
+TileSets/5Hex/Tiles/King Solomon's Mines
   rotate: false
-  xy: 928, 171
+  xy: 388, 63
   size: 80, 70
   orig: 80, 70
   offset: 0, 0
   index: -1
-TileSets/5Hex/Tiles/Spaceship Debris
+TileSets/5Hex/Tiles/Lake Victoria
   rotate: false
   xy: 476, 63
   size: 80, 70
   orig: 80, 70
   offset: 0, 0
   index: -1
+TileSets/5Hex/Tiles/Mount Kilimanjaro
+  rotate: false
+  xy: 564, 63
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+TileSets/5Hex/Tiles/Penguin Hatchery
+  rotate: false
+  xy: 652, 63
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+TileSets/5Hex/Tiles/Spaceship Debris
+  rotate: false
+  xy: 740, 63
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Alien Spaceship
   rotate: false
-  xy: 680, 85
+  xy: 828, 65
   size: 32, 48
   orig: 32, 48
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/King Solomon's Mines
+TileSets/FantasyHex/Tiles/Kilimanjaro
   rotate: false
   xy: 4, 4
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Lake Victoria
+TileSets/FantasyHex/Tiles/King Solomon's Mines
   rotate: false
-  xy: 840, 134
+  xy: 868, 84
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Mount Kilimanjaro
+TileSets/FantasyHex/Tiles/Lake Victoria
   rotate: false
   xy: 44, 4
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Mount Kilimanjaro
+  rotate: false
+  xy: 908, 84
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Penguin Hatchery
   rotate: false
-  xy: 880, 135
+  xy: 948, 97
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Spaceship Debris
   rotate: false
-  xy: 84, 4
+  xy: 988, 96
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Phasers
+TileSets/FantasyHex/Units/Alien Worker
   rotate: false
-  xy: 388, 63
+  xy: 212, 63
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+TileSets/5Hex/Units/Alien Worker
+  rotate: false
+  xy: 212, 63
   size: 80, 70
   orig: 80, 70
   offset: 0, 0
   index: -1
 TileSets/5Hex/Units/Phasers
   rotate: false
-  xy: 388, 63
+  xy: 212, 63
   size: 80, 70
   orig: 80, 70
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Phasers
+  rotate: false
+  xy: 212, 63
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+UnitIcons/Alien Worker
+  rotate: false
+  xy: 212, 141
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Phasers
   rotate: false
-  xy: 644, 141
+  xy: 752, 141
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Altitude Training
   rotate: false
-  xy: 564, 83
+  xy: 948, 191
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Cold heart
   rotate: false
-  xy: 622, 83
+  xy: 948, 133
   size: 50, 50
   orig: 50, 50
   offset: 0, 0

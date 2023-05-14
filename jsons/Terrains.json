@@ -2,35 +2,39 @@
 	{
 		"name": "Alien Spaceship",
 		"type": "NaturalWonder",
-        "food": 4,
-        "science": 8,
-        "happiness": 8,
+        "science": 6,
         "culture": 2,
         "faith": 2,
 		"occursOn": ["Tundra","Snow"],
-		"uniques": ["Must be adjacent to [0] [Coast] tiles",
+		"uniques": [
+            "Must be adjacent to [6] [Land] tiles",
             "Must be adjacent to [0] [Desert] tiles",
 			"Must be adjacent to [0] [Mountain] tiles",
             "Must be adjacent to [3] to [6] [Tundra] tiles",
             "Must be on [2] largest landmasses",
-            "Neighboring tiles will convert to [Tundra]",
-            "Tile provides yield without assigned population"],
+            "Neighboring tiles will convert to [Spaceship Debris]",
+            "Tile provides yield without assigned population",
+            "[+4] to Fertility for Map Generation",
+			"Considered [Desirable] when determining start locations"],
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 400000
+		"weight": 900000,
+        "civilopediaText":[{"text":"While it still looks impressive, it will never fly to the stars again. The survivors have simply decided to wait for rescue and have fun while doing so."}]
 	},
 	{
 		"name": "Spaceship Debris",
-		"type": "NaturalWonder",
-		"production": 4,
+		"type": "Land",
+		"production": 3,
         "food": 2,
-		"occursOn": ["Tundra","Forest"],
-		"uniques": ["Must be adjacent to [1] [Alien Spaceship] tiles",
-            "Occurs in groups of [3] to [5] tiles"],
-		"turnsInto": "Tundra",
-		"unbuildable": true,
-		"weight": 2000
+		"movementCost": 2,
+		"RGB": [240,240,240],
+		"uniques": [
+            "[+6] to Fertility for Map Generation",
+            "Considered [Food] when determining start locations <in [Tundra] Regions>",
+			"Considered [Production] when determining start locations <in [Tundra] Regions>",
+			"Considered [Desirable] when determining start locations"],
+        "civilopediaText":[{"text":"The junk that fell from the sky here can still be scavenged to some extent."}]
 	},
 
     // BNW wonders

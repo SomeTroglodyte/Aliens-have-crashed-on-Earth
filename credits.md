@@ -1,9 +1,10 @@
 Most of the following images are from [the Noun Project](https://thenounproject.com) licenced under either Creative Commons or Public Domain unless specified otherwise.
 
-* [alien](https://thenounproject.com/term/alien/1820539) by Minh Do
-* [raygun](https://thenounproject.com/term/raygun/11236/) by Dominik Grob
-* [vr](https://thenounproject.com/term/vr/2334639) by Mahmure Alp
-* [Human cloning](https://thenounproject.com/term/human-cloning/1581556/) by Gan Khoon Lay 
+* [alien](https://thenounproject.com/term/alien/1820539) by Minh Do for the Nation icon
+* [alien](https://thenounproject.com/icon/alien-1597109/) by myiconfinder for gimping the Alien Worker icon
+* [raygun](https://thenounproject.com/term/raygun/11236/) by Dominik Grob for Phasers unit icon
+* [vr](https://thenounproject.com/term/vr/2334639) by Mahmure Alp for Holodeck
+* [Human cloning](https://thenounproject.com/term/human-cloning/1581556/) by Gan Khoon Lay for Breeders
 * [Penguin](https://thenounproject.com/term/penguin/342691) by Javier Cabezas for Penguin Hatchery
 * [Penguin](https://thenounproject.com/term/penguin/26761) by Christy Presler for Penguin Hatchery tileset
 * [Ski](https://thenounproject.com/term/ski/3447910/) by Smalllike for Cold heart
@@ -33,4 +34,4 @@ Link: https://incompetech.filmmusic.io/song/7912-burn-the-world-waltz
 License: https://filmmusic.io/standard-license
 
 * [Alien Theme.ogg]()
-Made with Audacity.
+Made from scratch with Audacity.

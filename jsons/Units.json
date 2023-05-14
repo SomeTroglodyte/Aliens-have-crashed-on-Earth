@@ -1,17 +1,35 @@
 [
 	{
+		"name": "Alien Worker",
+		"unitType": "Civilian",
+		"uniqueTo": "Aliens",
+		"replaces": "Worker",
+		"movement": 1,
+		"uniques": ["Can build [Road] improvements on tiles",
+                    "Can build [Mine] improvements on tiles",
+                    "Can build [Camp] improvements on tiles",
+                    "Can build [Pasture] improvements on tiles",
+                    "Can build [Plantation] improvements on tiles",
+                    "[+50]% tile improvement construction time",
+                    "Can instantly construct a [Penguin Hatchery] improvement <by consuming this unit>"],
+		"hurryCostModifier": 150,
+		"cost": 150,
+        "civilopediaText":[{"text":"These are the runts of the litter, cast aside to do menial labour. While all Aliens are too weak to hold a shovel (to build farms) or an axe (to chop trees), these guys are even too wimpy to hold a Phaser. The only honour bestowed on them is the permission to sacrifice themselves as penguin food."}]
+	},
+	{
 		"name": "Phasers",
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Aliens",
 		"replaces": "Machine Gun",
 		"movement": 2,
 		"strength": 90,
-		"rangedStrength": 36,
+		"rangedStrength": 42,
 		"range": 1,
 		"cost": 500,
 		"requiredTech": "Ballistics",
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Extended Range"],
-		"attackSound": "phasers"
+		"attackSound": "phasers",
+        "civilopediaText":[{"text":"These raygun-toting, maniacally grinning, sequins-wearing Aliens come in peace! Or they blast you to pieces. Damn if I know which it is."}]
 	}
 ]
