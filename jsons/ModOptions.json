@@ -1,5 +1,4 @@
 {constants:{
-    maxXPfromBarbarians:60,
     naturalWonderCountMultiplier: 0.1,
     naturalWonderCountAddedConstant: 2.4
 }}
