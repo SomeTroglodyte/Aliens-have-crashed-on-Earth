@@ -1,9 +1,9 @@
 {
-    constants:{
-        naturalWonderCountMultiplier: 0.1,
-        naturalWonderCountAddedConstant: 2.4
+    "constants":{
+        "naturalWonderCountMultiplier": 0.1,
+        "naturalWonderCountAddedConstant": 2.4
     },
-    uniques:[
+    "uniques":[
         "Disable religion"
     ]
 }
