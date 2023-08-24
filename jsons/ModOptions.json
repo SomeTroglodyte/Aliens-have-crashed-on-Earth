@@ -1,9 +1,12 @@
 {
+    "author":"SomeTroglodyte",
     "constants":{
         "naturalWonderCountMultiplier": 0.1,
         "naturalWonderCountAddedConstant": 2.4
     },
     "uniques":[
-        "Disable religion"
+        "Disable religion",
+        "Mod is incompatible with [DeCiv Redux]",
+        "Cannot be used as permanent audiovisual mod"
     ]
 }
